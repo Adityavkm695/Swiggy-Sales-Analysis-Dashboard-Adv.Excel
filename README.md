@@ -151,8 +151,8 @@ git clone https://github.com/yourusername/swiggy-sales-performance-dashboard.git
 ---
 <h2><a class="anchor" id="author--contact"></a>Author & Contact</h2>
 
-**Aditya Vishwakarma**
-Aspiring Business Analyst
+**Name- Aditya Vishwakarma**
+Aspiring Business Analyst 
 📧 Email: analyst.aditya09@gmail.com
 📍 Address: Bhopal, Madhya Pradesh, India
 🖇️ Linkedin: www.linkedin.com/in/adityaanalyst09
