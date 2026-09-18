@@ -124,7 +124,8 @@ Standard Excel charts don't auto-refresh with pivot slicers, so a mirror-range f
   - Quarterly performance matrix & regional city rankings
   - Slicers for Month, Food Type, State, and Category
 
-![Swiggy Sales Dashboard](images/dashboard_preview.png)
+![Swiggy Sales Dashboard](<img width="1131" height="580" alt="Screenshot 2026-09-18 152550" src="https://github.com/user-attachments/assets/31814d8d-7cda-4391-a7f8-49e2df027086" />
+)
 
 ---
 <h2><a class="anchor" id="how-to-run-this-project"></a>How to Run This Project</h2>
